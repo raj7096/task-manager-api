@@ -16,7 +16,7 @@ const sendcancelationEmail = (email,name)=>{
         to:email,
         from:'rathoreraj725@gmail.com',
         subject:'Sorry To See You Go😢',
-        text:`Goodbye,${name}.O Hope To See You Back Sometime Soon`
+        text:`Goodbye,${name}.I Hope To See You Back Sometime Soon`
     })
 
 }
